@@ -10,7 +10,7 @@ function hideMenu() {
 function sendEmail() {
   Email.send({
     Host: 'smtp.gmail.com',
-    Username: 'majumderrniru007',
+    Username: 'Nirnay Majumder',
     Password: 'janina007!',
     To: 'majumderrniru007@gmail.com',
     From: document.getElementById('email').value,
